@@ -1,0 +1,8 @@
+"""docsting"""
+"""
+
+"""
+'''
+
+'''
+print("hello word")
